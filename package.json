@@ -1,0 +1,20 @@
+{
+  "name": "okcoincrawler",
+  "version": "1.0.0",
+  "description": "a simple crawler to collect okcoin's trade data",
+  "main": "app.js",
+  "scripts": {
+    "start": " node start.js"
+  },
+  "keywords": [
+    "okcoin crawler"
+  ],
+  "author": "liuzy <mostic1122@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "log4js": "^1.1.1",
+    "ws": "^2.3.1"
+  }
+}
